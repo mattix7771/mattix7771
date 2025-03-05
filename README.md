@@ -1,10 +1,10 @@
-<h1 style="text-align: center">Hi there, I'm Mattia 👋</h1>
+<h1 align="center">Hi there, I'm Mattia 👋</h1>
 
 ## 🙋‍♂️ About Me
 
-I'm a full-stack software developer passionate about creating meaningful solutions and always learning the lastest tech.
+I'm a full-stack software developer passionate about creating meaningful solutions and always learning the latest tech.
 
-<p style="text-align: center">
+<p align="center">
 🔧 Engineer by profession
 💻 Developer by passion
 🏋️ Fitness enthusiast by interest
