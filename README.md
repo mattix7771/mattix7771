@@ -1,9 +1,14 @@
-<h1 align="center">Hi there, I'm Mattia Merati 👋</h1>
+<h1 style="text-align: center">Hi there, I'm Mattia 👋</h1>
 
 ## 🙋‍♂️ About Me
 
-I'm a full-stack graduate Software Engineer who loves creating innovative solutions, automating repetitive tasks, and driving digital transformation.
+I'm a full-stack software developer passionate about creating meaningful solutions and always learning the lastest tech.
 
+<p style="text-align: center">
+🔧 Engineer by profession
+💻 Developer by passion
+🏋️ Fitness enthusiast by interest
+</p>
 
 ## 🎓 Education
 
@@ -14,17 +19,22 @@ I'm a full-stack graduate Software Engineer who loves creating innovative soluti
 - **Skills**: OOP, Algorithms and Data Structures, Database Systems, Operating Systems, AI, LLMs, DevOps
 
 
-
 ## 💼 Professional Experience
 
 ### **Software Developer Intern**  
-**Company**: COSLA 
-- Developed CONSUL DEMOCRACY platform - a citizen participation tool 
+**Company**: COSLA (Convention of Scottish Local Authorities)
+- Developed CONSUL DEMOCRACY platform - <a href="https://consuldemocracy.org">The most complete citizen participation tool </a>
 - Co-developed the implementation of postcodes for users to create and vote on local proposals.
 - Improved budget investments to make it easier for users to receive feedback on input.  
 - Collaborated with lead developers to troubleshoot technical issues and develop effective solutions.  
 **Technical Skills**: Ruby on Rails, HTML, CSS, Shell, Git, GitHub, Databases  
-**Soft Skills**: Professionalism, Effective Communication, Problem-solving, Strategic Thinking, Multitasking  
+
+### **Software Developer**  
+**Company**: TETCo (The Educate Technology Company)
+- Co-developed the Peer-to-Peer Assessment system aimed at improving student-teacher feedback pipeline
+- Researched, designed, and prototyped a **Peer-to-Peer Assessment** system.  
+- Implemented **Adaptive Comparative Judgement** to enhance learner feedback.
+**Technical Skills**: React.js, Express.js, C#, HTML, CSS, GitHub
 
 
 ## 🛠️ Technical Skills
@@ -47,15 +57,26 @@ I'm a full-stack graduate Software Engineer who loves creating innovative soluti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### **Databases**
+### **Database Management**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat&logo=nosql&logoColor=white)
 
-### **Tools & Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### **Platforms & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+## 🚀 Current projects in progress
+
+- 🤖 Diving deep into the development and training of **Neural Networks** & **Machine Learning**
+- 🌐 Building a Portfolio Website to showcase my projects, skills, and experience
+- 🎮 Creating pixel role-playing game using MonoGame
+
+## 🔗 Let's Talk
+[![Email](https://img.shields.io/badge/Email-mattione7@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattione7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mattiamerati-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-merati/)
