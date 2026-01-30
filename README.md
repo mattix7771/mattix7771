@@ -21,16 +21,22 @@ I'm a full-stack software developer passionate about creating meaningful solutio
 
 ## 💼 Professional Experience
 
+### **System Test Engineer Graduate**  
+**Company**: <a href="https://calnexsol.com">Calnex</a>
+- Worked on Industry-leading <a href="https://calnexsol.com/product/paragon-neo">Paragon-neo</a>
+- Architected and Developed test cases to verify its capability to adhere to international telecommunications standards
+**Technical Skills**: Python, JavaScript, Electron.js, Node.js, unittest, REST, Shell, Git, GitHub
+
 ### **Software Developer Intern**  
-**Company**: COSLA (Convention of Scottish Local Authorities)
-- Developed CONSUL DEMOCRACY platform - <a href="https://consuldemocracy.org">The most complete citizen participation tool </a>
+**Company**: <a href="https://www.cosla.gov.uk">COSLA - Convention of Scottish Local Authorities</a>
+- Developed CONSUL DEMOCRACY platform - <a href="https://consuldemocracy.org">The most complete citizen participation tool</a>
 - Co-developed the implementation of postcodes for users to create and vote on local proposals.
 - Improved budget investments to make it easier for users to receive feedback on input.  
 - Collaborated with lead developers to troubleshoot technical issues and develop effective solutions.  
 **Technical Skills**: Ruby on Rails, HTML, CSS, Shell, Git, GitHub, Databases  
 
 ### **Software Developer**  
-**Company**: TETCo (The Educate Technology Company)
+**Company**: <a href="https://tetco.io">TETCo - The Educate Technology Company)</a>
 - Co-developed the Peer-to-Peer Assessment system aimed at improving student-teacher feedback pipeline
 - Researched, designed, and prototyped a **Peer-to-Peer Assessment** system.  
 - Implemented **Adaptive Comparative Judgement** to enhance learner feedback.
